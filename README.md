@@ -39,7 +39,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/ibrhimulu/ibrhimulu/blob/main/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrhimulu&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </div>
 
 ⭐️ Created by [ibrhimulu](https://github.com/ibrhimulu) 
