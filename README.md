@@ -41,11 +41,6 @@ Yazılım geliştirme tutkunu ve sürekli öğrenmeye açık bir geliştirici. T
 ## 📈 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ibrhimulu&theme=radical)
 
-## 🎯 Hedefler
-- [ ] Hedef 1
-- [ ] Hedef 2
-- [ ] Hedef 3
-
 ---
 
 ⭐️ [ibrhimulu](https://github.com/ibrhimulu) tarafından oluşturuldu 
