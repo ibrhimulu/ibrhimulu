@@ -4,7 +4,7 @@
 Yazılım geliştirme tutkunu ve sürekli öğrenmeye açık bir geliştirici. Teknoloji dünyasındaki yenilikleri takip etmeyi ve yeni projeler üretmeyi seviyorum.
 
 ## 💻 Teknolojiler ve Araçlar
-- **Frontend:** HTML, CSS, JavaScript, React
+- **Frontend:** HTML, CSS, JavaScript
 - **Backend:** ASP.NET, Python
 - **Veritabanı:** MSSQL
 - **Araçlar:** Git, VS Code
