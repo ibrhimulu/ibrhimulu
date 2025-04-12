@@ -1,7 +1,7 @@
 # Hi, It's İbrahim 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72A&center=true&vCenter=true&width=435&lines=Software+Developer;Always+Learning+New+Things;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72A&center=true&vCenter=true&width=435&lines=Software+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 ## 📊 GitHub Stats
