@@ -20,7 +20,7 @@ Yazılım geliştirme tutkunu ve sürekli öğrenmeye açık bir geliştirici. T
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrhimulu&show_icons=true&theme=radical)
 
 ## 📫 İletişim
-- LinkedIn: [İbrahim Ulu](https://www.linkedin.com/in/ibrahimulu/)
+- LinkedIn: [İbrahim Halil Ulugerger](https://www.linkedin.com/in/ibrahimulu/)
 - E-posta: ibrahimhalil9520@gmail.com
 
 ## 🔥 İlgi Alanları
